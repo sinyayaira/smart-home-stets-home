@@ -1,4 +1,4 @@
-# smart-home-stets-home
+# smart-home-stets
 Разработка приложения для управления умным домом «Stets Home». В ходе работы:
 
 - Составила карту пользовательских историй в Miro и выделила MVP https://miro.com/app/board/uXjVIoXMpnk=/
